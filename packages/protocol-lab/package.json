@@ -1,0 +1,12 @@
+{
+  "name": "@pi-infinity/protocol-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'no build (docs/templates only)'",
+    "test": "echo 'no tests (templates only)'",
+    "typecheck": "echo 'no typecheck'",
+    "lint": "echo 'no lint'"
+  }
+}
